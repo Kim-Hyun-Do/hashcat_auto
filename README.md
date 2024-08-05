@@ -21,6 +21,6 @@ optional arguments:
 
 # Example
 
-``hashcat -a 0 -m ~/hash_mode -f ~/hash_file -d ~/example.dict``
+  ``hashcat -a 0 -m ~/hash_mode -f ~/hash_file -d ~/example.dict``
 
 ![123123](https://github.com/user-attachments/assets/fb37f648-e1d6-4ea9-962f-83523dc945cc)
